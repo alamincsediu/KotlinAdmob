@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Kotlin Admob</string>
-    <string name="native_ad_unit"></string>
-    <string name="banner_ad_unit">Kotlin Admob</string>
+    <string name="native_ad_unit">ca-app-pub-2496350248328805/2331727834</string>
+    <string name="banner_ad_unit">ca-app-pub-2496350248328805/9420892120</string>
 
 </resources>

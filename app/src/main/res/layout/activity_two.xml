@@ -10,7 +10,7 @@
         android:id="@+id/adView2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        ads:adUnitId="ca-app-pub-3940256099942544/1072772517"
+        ads:adUnitId="@string/native_ad_unit"
         ads:adSize="320x150" >
     </com.google.android.gms.ads.NativeExpressAdView>
 
@@ -22,6 +22,6 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         ads:adSize="SMART_BANNER"
-        ads:adUnitId="ca-app-pub-3940256099942544/6300978111" />
+        ads:adUnitId="@string/banner_ad_unit" />
 
 </RelativeLayout>
